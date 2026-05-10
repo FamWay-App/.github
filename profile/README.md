@@ -1,4 +1,4 @@
-# Situa.app developer's workspace
+# FamWay app developer's workspace
 
 Official workspace for **FamWay.app** development team (year 2026).
 
